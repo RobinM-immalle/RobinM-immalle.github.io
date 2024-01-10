@@ -5,6 +5,8 @@ body{
 }
 li{
     display: inline; 
+    text-align: center;
+    border: solid 2px blue;
 }
 a:link{
     color: black;
