@@ -25,9 +25,12 @@ aside{
     color: white;
 }
 h1{
-    font-size: 14px; 
+    font-size: 14px;  
 
 }
 h2{
     font-size: 12px; 
+}
+header{
+    text-align: center;
 }
