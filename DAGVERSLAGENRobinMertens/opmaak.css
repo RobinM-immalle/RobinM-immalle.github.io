@@ -7,12 +7,14 @@ li{
     display: inline; 
     float: middle;
     border: solid 2px blue;
+    padding: 30px; 
+    margin: 30 px 30 px auto ;
 }
 a:link{
-    color: black;
+    color: white;
 }
 a:visited{
-    color: white;
+    color: black;
 }
 aside{
     float: right; 
@@ -24,6 +26,7 @@ aside{
 }
 h1{
     font-size: 14px; 
+
 }
 h2{
     font-size: 12px; 
