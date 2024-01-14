@@ -33,4 +33,9 @@ h2{
 }
 header{
     text-align: center;
+    padding: 80 px; 
+}
+footer{
+    background-color: blue;
+    color: white;
 }
