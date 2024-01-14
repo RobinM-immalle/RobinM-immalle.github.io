@@ -25,11 +25,14 @@ aside{
     color: white;
 }
 h1{
-    font-size: 14px;  
-
+    font-size: 50px;  
+    font-weight: bold; 
+    text-transform: underline; 
 }
 h2{
-    font-size: 12px; 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-transform: underline;
 }
 header{
     text-align: center;
@@ -39,4 +42,9 @@ footer{
     background-color: darkblue;
     color: white;
     display: inline;
+}
+relatief{
+    font-size: 70px; 
+    text-transform: underline; 
+    font-weight: bold; 
 }
