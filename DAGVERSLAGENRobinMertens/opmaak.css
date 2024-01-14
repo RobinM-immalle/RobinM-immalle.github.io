@@ -36,6 +36,7 @@ header{
     padding: 80 px; 
 }
 footer{
-    background-color: blue;
+    background-color: darkblue;
     color: white;
+    display: inline;
 }
