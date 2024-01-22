@@ -10,12 +10,14 @@ li{
     border: solid 2px blue;
     padding: 30px; 
     margin: 30 px 30 px auto ;
+    color: white; 
+    background-color:blue; 
 }
 a:link{
     color: white;
 }
 a:visited{
-    color: black;
+    color: red;
 }
 aside{
     float: right; 
