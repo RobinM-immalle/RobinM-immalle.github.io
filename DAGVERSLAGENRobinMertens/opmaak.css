@@ -8,9 +8,9 @@ h1{
 nav{
     float:right; 
     padding: 20px 0px 20px 20px; 
-    background-color: lightblue;
+    background-color: darkblue;
     color: white;
-    width: 80%;
+    width: 100%;
 }
 nav li{
     display: inline; 
@@ -29,7 +29,7 @@ nav li a:hover{
 section{
     float: left; 
     width: 80%; 
-    background-color: darkblue;
+    background-color: lightskyblue;
     color: white;
     border-radius: 15px;
     text-align: center;
@@ -37,12 +37,12 @@ section{
     margin: 30px 10% 30px 10%;
 }
 #logo img{
-    width: 80%; 
+    width: 50%; 
     height: 100px; 
     float: left; 
 }
 #stageplaats img{
-    width: 100%;
+    width: 70%;
     margin: 1% 0% 1% 1%;
 }
 footer{
