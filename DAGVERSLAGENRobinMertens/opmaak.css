@@ -1,54 +1,50 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    color: white; 
-    background-color: darkblue;
-    text-align: center;
-}
-li{
-    display: inline; 
-    float: middle;
-    border: solid 2px blue;
-    padding: 30px; 
-    margin: 30 px 30 px auto ;
-    color: white; 
-    background-color:blue; 
-}
-a:link{
-    color: white;
-}
-a:visited{
-    color: red;
-}
-aside{
-    float: right; 
-    width: 30%; 
-    height: 450px; 
-    margin-left: 20px;
-    background-color: blue;
-    color: white;
 }
 h1{
-    font-size: 50px;  
+    font-size: 30pt; 
     font-weight: bold; 
-    text-transform: underline; 
 }
-h2{
-    font-size: 30px; 
-    font-weight: bold; 
-    text-transform: underline;
-}
-header{
-    text-align: center;
-    padding: 80 px; 
-}
-footer{
+nav{
+    float:right; 
+    padding: 20px 0px 20px 20px; 
     background-color: darkblue;
     color: white;
-    display: inline;
+    width: 80%;
 }
-relatief{
-    font-size: 70px; 
-    text-transform: underline; 
-    font-weight: bold; 
+nav li{
+    display: inline; 
+}
+nav li a{
+    text-decoration: none; 
+    padding: 20px 20px 20px 20px; 
+    color: red; 
+    font-size: 13pt; 
+}
+nav li a:hover{
+    background-color: white;
     color: black;
+    font-weight: bold;
+}
+section{
+    float: left; 
+    width: 80%; 
+    background-color: darkblue;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    margin: 30px 10% 30px 10%;
+}
+#logo img{
+    width: 20%; 
+    height: 61px; 
+    float: left; 
+}
+#stageplaats img{
+    width: 100%;
+    margin: 1% 0% 1% 1%;
+}
+footer{
+    text-align: center;
 }
