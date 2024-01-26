@@ -38,7 +38,7 @@ section{
 #logo img{
     width: 50%; 
     height: 100px; 
-    float: left; 
+    text-align: center;
 }
 #stageplaats img{
     width: 70%;
