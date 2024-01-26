@@ -8,7 +8,7 @@ h1{
 nav{
     float:right; 
     padding: 20px 0px 20px 20px; 
-    background-color: darkblue;
+    background-color: lightblue;
     color: white;
     width: 80%;
 }
@@ -37,8 +37,8 @@ section{
     margin: 30px 10% 30px 10%;
 }
 #logo img{
-    width: 20%; 
-    height: 61px; 
+    width: 50%; 
+    height: 100px; 
     float: left; 
 }
 #stageplaats img{
