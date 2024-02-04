@@ -1,6 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: darkblue;
+    background-color: white;
+    color: darkblue;
 }
 h1{
     font-size: 30pt; 
@@ -18,29 +19,28 @@ nav li{
 nav li a{
     text-decoration: none; 
     padding: 20px 20px 20px 20px; 
-    color: red; 
+    color: darkblue; 
     font-size: 13pt; 
 }
 nav li a:hover{
-    background-color: white;
-    color: black;
+    background-color: grey;
+    color: white;
     font-weight: bold;
 }
 section{
     float: left; 
     width: 80%; 
     background-color: lightblue;
-    color: white;
+    color: black;
     border-radius: 15px;
-    text-align: center;
-    padding: 50px 0px 50px 0px;
-    margin: 30px 10% 30px 10%;
+    
 }
 #logo img{
     width: 50%; 
-    height: 100px; 
+    height: 30%; 
     margin: 30px 10% 30px 10%;
-    padding: 30px auto 30px auto
+    padding: 30px auto 30px auto;
+    text-align: center; 
 }
 #stageplaats img{
     width: 50%;
@@ -50,10 +50,18 @@ section{
 footer{
     float: left; 
     width: 80%; 
-    background-color: lightblue;
+    background-color: darkblue;
     color: white;
     border-radius: 15px;
     text-align: center;
     padding: 50px 0px 50px 0px;
+    margin: 30px auto 30px auto
+}
+img{
+    padding: 30px auto 30px auto;
+    margin: 30px 10% 30px 10%;
+}
+video{
+    padding: 30px auto 30px auto; 
     margin: 30px 10% 30px 10%;
 }
