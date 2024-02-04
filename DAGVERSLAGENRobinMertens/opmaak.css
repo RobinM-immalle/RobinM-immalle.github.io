@@ -68,3 +68,6 @@ table{
     border-radius: 2px bold; 
     border-color: white;
 }
+a:link{
+    color: black; 
+}
