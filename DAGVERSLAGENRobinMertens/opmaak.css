@@ -14,7 +14,7 @@ nav{
     width: 100%;
 }
 nav li{
-    display: block; 
+    display: inline; 
 }
 nav li a{
     text-decoration: none; 
@@ -63,4 +63,8 @@ img{
 video{
     padding: 30px auto 30px auto; 
     margin: 30px 10% 30px 10%;
+}
+table{
+    border-radius: 2px bold; 
+    border-color: white;
 }
