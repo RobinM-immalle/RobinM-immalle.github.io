@@ -10,7 +10,7 @@ h1{
 nav{
     padding: 20px 0px 20px 20px; 
     background-color: darkblue;
-    color: white;
+    color: black;
     width: 100%;
 }
 nav li{
@@ -35,8 +35,8 @@ section{
     border-radius: 15px;
 }
 #logo img{
-    width: 100pt;
-    height: 100pt; 
+    width: 50pt;
+    height: 40pt; 
     margin: 30px 10% 30px 10%;
     padding: 30px auto 30px auto;
     text-align: center; 
