@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: whitesmoke;
+    background-color: grey;;
     color: darkblue;
 }
 h1{
@@ -24,7 +24,7 @@ nav li a{
     font-size: 13pt; 
 }
 nav li a:hover{
-    background-color: grey;
+    background-color: wheat;
     color: lightblue;
     font-weight: bold;
 }
@@ -56,6 +56,7 @@ section{
 }
 footer{
     width: 100%; 
+    height: 200px;
     background-color: darkblue;
     color: white;
     border-radius: 15px;
@@ -79,4 +80,7 @@ h2{
 table{
     border: solid 5px lightskyblue;
     border-radius: 10px; 
+    float: center;
+    margin: 30px auto 30px auto;
+
 }
