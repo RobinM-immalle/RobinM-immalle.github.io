@@ -12,7 +12,7 @@ nav{
     background-color: darkblue;
     color: black;
     width: 100%;
-    
+    position: fixed;
 }
 nav li{
     display: inline;
@@ -29,7 +29,6 @@ nav li a:hover{
     font-weight: bold;
 }
 section{
-    float: left; 
     width: 100%; 
     background-color: white;
     color: blue;
