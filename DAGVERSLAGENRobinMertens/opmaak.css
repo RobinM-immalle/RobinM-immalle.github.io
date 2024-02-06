@@ -76,3 +76,7 @@ a:link{
 h2{
     float: center;
 }
+table{
+    border: solid 5px lightskyblue;
+    border-radius: 10px; 
+}
