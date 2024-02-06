@@ -76,6 +76,8 @@ a:link{
 }
 h2{
     float: center;
+    text-transform: underline; 
+    font-weight: italic;
 }
 table{
     border: solid 5px lightskyblue;
