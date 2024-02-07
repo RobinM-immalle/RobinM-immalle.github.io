@@ -23,7 +23,7 @@ nav li a{
     font-size: 13pt; 
 }
 nav li a:hover{
-    background-color: wheat;
+    background-color: lightcyan;
     color: lightblue;
     font-weight: bold;
 }
